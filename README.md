@@ -172,6 +172,8 @@ retail-sales-performance-analysis/
 
 **Blessing Usieme**
 
-**Data Analyst | Basic Front-End Developer**
+**Data Analyst - Business Intelligence | Data Visualization and Storytelling**
 
 GitHub: https://github.com/usiemeblessing
+
+LinkedIn: https://linkedin.com/in/blessing-usieme-b31b32396
